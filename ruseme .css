@@ -1,0 +1,41 @@
+.PNG {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+
+.container {
+    background-color: lightblue;
+    height: 100vh;
+    /* Vh VeiwPort*/
+    border: rgb(255, 252, 252);
+    border-width: 3px;
+    border-style: solid;
+}
+
+.borders {
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(216, 142, 142);
+}
+
+.toribo1 {
+    border-style: solid;
+    border-color: rgb(221, 148, 148);
+    border-width: 2px;
+    background-color: rgb(72, 235, 213);
+}
+
+.toribo2 {
+    border-style: solid;
+    border-color: rgb(109, 60, 150);
+    border-width: 50px;
+    background-color: rgb(106, 66, 143);
+}
+
+.toribo3 {
+    border-style: solid;
+    border-color: black;
+    border-width: 50px;
+    background-color: rgb(8, 241, 164);
+}
