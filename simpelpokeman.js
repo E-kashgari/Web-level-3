@@ -1,4 +1,3 @@
-let i = 0
 class pokemon {
     constructor(name, healthpoints, types) {
         this.name = name
@@ -6,12 +5,10 @@ class pokemon {
         this.types = types;
     }
 }
-train. {} {
-    1 = 10
-}
+train()[this.healthpoints = this.healthpoints + 10;]
 
-evolve. {} {
-    1 = 100
-}
+evolve()[
+    this.healthpoints = this.healthpoints + 100
+]
 
 let randompokemon = new pokemon { "pikachu", i, "electric,normal" }
